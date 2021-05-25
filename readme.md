@@ -15,6 +15,7 @@ LICENSE: [MIT](./license.md)
 3. [Что такое GIT?](./content/what.md)
 4. [Командная строка](./content/cmd.md)
 5. [Установка GIT](./content/setup.md)
+6. [Первоначальная настройка Git](./content/first_conf.md)
 
 ---
 
