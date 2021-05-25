@@ -102,9 +102,12 @@ John Doe
   <tr>
   <th>Примечание</th>
   <th>Так как Git читает значение настроек из нескольких файлов, возможна ситуация когда Git использует не то значение что вы ожидали. В таком случае вы можете спросить Git об origin этого значения. Git выведет имя файла, из которого значение для настройки было взято последним: 
-  
-  ``` 
-  $ git config --show-origin rerere.autoUpdate
+
+
+```
+$ git config --show-origin rerere.autoUpdate
 file:/home/johndoe/.gitconfig	false
-```</th> 
+ ```
+
+</th>
 </table>
