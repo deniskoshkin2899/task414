@@ -7,10 +7,15 @@ LICENSE: [MIT](./license.md)
 ---
 
 
-## Содержание
-1. [Что такое GIT?](./content/gitt.md)
-2. [Необходимое для работы ПО](./content/software)
-3. Что-то
+# Содержание
+## 1. **Введение**
+1. [О системе контроля версий](./content/about.md)
+2. [Краткая история Git](./content/history.md)
+3. [Что такое GIT?](./content/what.md)
+
+
+
+
 ---
 
 GIT logo by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
