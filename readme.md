@@ -6,15 +6,15 @@ LICENSE: [MIT](./license.md)
 
 ---
 
-
 # Содержание
-## 1. **Введение**
+
+## **1. Введение**
+
 1. [О системе контроля версий](./content/about.md)
 2. [Краткая история Git](./content/history.md)
 3. [Что такое GIT?](./content/what.md)
-
-
-
+4. [Командная строка](./content/cmd.md)
+5. [Установка GIT](./content/setup.md)
 
 ---
 
