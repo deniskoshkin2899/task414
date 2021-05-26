@@ -108,4 +108,5 @@ John Doe
   file:/home/johndoe/.gitconfig	false
   ```
   </th>
+</tr>
 </table>
